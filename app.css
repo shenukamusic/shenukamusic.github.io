@@ -4,6 +4,38 @@ body {
     font-family: "Nunito", sans-serif;
 }
 
+.fa {
+    padding: 20px;
+    font-size: 5rem;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    width: 8rem;
+    height: 8rem;
+  }
+
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+    width: 8rem;
+    height: 8rem;
+    margin-left: 2rem;
+  }  
+
+  .fa-youtube:hover {
+    color: maroon;
+  }
+
+  .fa-twitter:hover {
+    color: #216087;
+  }
+
 .jumbotron{
     width: fit-content;
     width: 100%;
